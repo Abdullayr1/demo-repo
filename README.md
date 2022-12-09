@@ -1,1 +1,5 @@
-<doc type HTML>
+<!DOCTYPE HTML>
+<html>
+  <head></head>
+  <body></body>
+</html>
