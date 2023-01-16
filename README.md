@@ -1,5 +1,2 @@
-<!DOCTYPE HTML>
-<html>
-  <head></head>
-  <body></body>
-</html>
+# DEMO
+this is just to practice git 
